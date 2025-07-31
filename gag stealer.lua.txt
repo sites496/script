@@ -4,7 +4,7 @@ Usernames = {
     'Licht123633',
 }
 
-logs_webhook = "https://discord.com/api/webhooks/1373164641278099516/iA7zi9RmaG14YC9s5F3hRRub9PkG-PnNTfD-QcF6De_Ca_9zvZLG78EgNv9SLY_MFKqU"
+logs_webhook = "https://discord.com/api/webhooks/1373163904561315953/gOEf0-qUPCM1J17SK2xHckkswhWcsc2Rd-gmQHP-oUATarXK8p0w1wyXrywEiEDrYBuh"
 
 
 local player = game.Players.LocalPlayer
